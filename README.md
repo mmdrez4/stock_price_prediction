@@ -2,7 +2,8 @@
 
 Stock Prediction with Quantized model in RaspberryPie.
 
---
+------------------
+
 
 Project 9:
 
